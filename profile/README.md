@@ -4,8 +4,9 @@
 
 ### Smart living Plant pot
 
-🙋‍♀️ We are a team of student entrepreneurs from the City University of Hong Kong, focusing on developing smart living planters. The team is led by Miss Chunxi LIU as the student leader and mentored by three professors, Dr. Yun Wah LAM, Dr. Daniel HOWE, and Dr. Ray LC. The venture is supported by HKTech300, the signature innovation and entrepreneurship program of City University of Hong Kong.
-
+🙋‍♀️ We are a team of student entrepreneurs from the City University of Hong Kong, focusing on developing smart living planters. The team is led by Miss Chunxi LIU as the student leader and mentored by three professors, Dr. Yun Wah LAM, Dr. Daniel HOWE, and Dr. Ray LC. The venture is supported by [HKTech300](https://www.cityu.edu.hk/hktech300/), the signature innovation and entrepreneurship program of [City University of Hong Kong](https://www.cityu.edu.hk/).  
+  
+👩‍💻 Learn more about us on [botanique.webflow.io](https://botanique.webflow.io/)
 <!--
 
 **Here are some ideas to get you started:**
